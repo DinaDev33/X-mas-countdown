@@ -1,5 +1,5 @@
 function christmasCountdown() {
-    const christmasDate = new Date(2026, 12, 25, 0, 0, 0);
+    const christmasDate = new Date(2026, 11, 25, 0, 0, 0);
     const now = new Date();
     const diff = christmasDate - now;
 
@@ -62,5 +62,6 @@ document.addEventListener('DOMContentLoaded', () => {
         snowflakesContainer.appendChild(snowflake);
     }
 });
+
 
 
