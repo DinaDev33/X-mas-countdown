@@ -4,7 +4,7 @@ body {
   background-size: cover;
  
   overflow: auto;
-  background-image: url("https://cdn.glitch.global/4bf1207c-a3b4-45bb-ba94-66b7502cd72e/xmas.jpg?v=1722510251763");
+  background-image: url("xmas.jpg");
 }
 
 #snowflakes {
@@ -308,6 +308,7 @@ border-radius: 10px;
     
 
   }
+
 
 
 
