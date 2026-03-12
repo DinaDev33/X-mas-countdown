@@ -1,3 +1,4 @@
+console.log("nouvelle version chargée");
 function christmasCountdown() {
     const christmasDate = new Date(2026, 11, 25, 0, 0, 0);
     const now = new Date();
@@ -62,6 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
         snowflakesContainer.appendChild(snowflake);
     }
 });
+
 
 
 
